@@ -1,2 +1,2 @@
-# elfsight-apps
+# Elfsight Apps
 GitHub Pages
